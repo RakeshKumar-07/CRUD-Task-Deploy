@@ -1,0 +1,28 @@
+.card-section {
+  margin: 0vh 15vh !important;
+  display: flex !important;
+}
+
+.heading{
+  margin-top: 5vh !important;
+  display: flex;
+  justify-content: center;
+}
+
+.update-modal{
+  padding: 2.5% 2.5% !important;
+}
+
+.delete-modal{
+  max-width: 40% !important;
+}
+
+.add{
+  max-width: fit-content !important;
+  margin: 2vh 16vh !important;
+  margin-top: 5vh !important;
+}
+
+.add-modal{
+  padding: 2.5% 2.5% !important;
+}
